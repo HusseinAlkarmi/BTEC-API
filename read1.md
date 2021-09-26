@@ -59,3 +59,15 @@ With the growing number and pace of microservice-based apps, businesses must tak
 2. Leverage OAuth: Access control for authentication and authorisation is one of the most critical parts of API security. OAuth, a token-based authorization mechanism that permits information to be accessed by third-party services without exposing user credentials, is a powerful tool for limiting API access.
 
 3. Use tokens: Token use is a good API security best practice in general. Tokens granted to identities are a simple but efficient approach for developers to establish trustworthy identities and control access to services.
+
+
+
+## Refrence:
+
+1. https://techbeacon.com/security/critical-api-security-risks-10-best-practices#:~:text=The%20most%20critical%20API%20security,and%20other%20risks%20are%20huge.
+
+2. https://www.cmswire.com/information-management/15-api-management-platforms-that-make-the-short-list/
+
+3. https://en.wikipedia.org/wiki/API#:~:text=An%20application%20programming%20interface%20(API,is%20called%20an%20API%20specification.
+
+4. https://www.grandmetric.com/2021/03/11/blackbox-whitebox-testing/
