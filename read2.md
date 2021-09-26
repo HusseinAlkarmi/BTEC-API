@@ -26,6 +26,6 @@ https://stoic-dubinsky-a838f6.netlify.app/
 
 2. backEnd: https://github.com/HusseinAlkarmi/react-axios
 
-3. frontEnd: https://stoic-dubinsky-a838f6.netlify.app/
+3. live URL: https://stoic-dubinsky-a838f6.netlify.app/
 
-4. 
+4. frontEnd: https://github.com/HusseinAlkarmi/react-axios
