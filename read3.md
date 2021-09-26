@@ -21,6 +21,23 @@ in this screenshot you can see that after the user search for a city the informa
 
 in this screenshot we see the map of the needed location and its to help the user to find the location that he want on the map.
 
+
++ ![test4](test4.PNG)
+
+this screenshot is for a function that used to get location to show it for the user.
+
+
++ ![test5](test5.PNG)
+
+this screenshot for the location IQ key that used to make the website more secure and each website have a special key.
+
+
++ ![test6](test6.PNG)
+
+this screenshot shows the step that give the user information that he needs and show the map and the other information that we asked for.
+
+
+
 + this is the website link:
 
 https://stoic-dubinsky-a838f6.netlify.app/
